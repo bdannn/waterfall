@@ -162,7 +162,7 @@ loader.load('waterfall7.glb', (gltf) => {
  * Lights
  */
 
-const directionalLight = new THREE.DirectionalLight(0xffff40, 2)
+const directionalLight = new THREE.DirectionalLight(0xffff80, 2)
 directionalLight.position.set(23, 35, 30) // Set the position of the light
 directionalLight.castShadow = true
 scene.add(directionalLight)
