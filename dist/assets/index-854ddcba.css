@@ -1,0 +1,1 @@
+*{margin:0;padding:0}html,body{overflow:hidden}.webgl{position:fixed;top:0;left:0;outline:none;z-index:1}#playButton{display:inline-block;padding:10px 20px;background-color:#000;color:#fff;border:none;cursor:pointer;font-size:16px;border-radius:4px;margin:10px;position:absolute;top:10px;left:10px;z-index:999}#playButton:hover{background-color:#0056b3}
